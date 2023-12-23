@@ -14,6 +14,8 @@ interface ScheduleProps {
   }
 }
 // sattory graph image
+// neon
+
 const Schedule = ({ user }: ScheduleProps) => {
   return (
     <>
